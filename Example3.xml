@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Фильмы>
-    <film1>
-        <name>Один дома</name>
-        <genre>комедия</genre>
-        <year>1990</year>
-        <country>США</country>
-        <evalution>8.3</evalution>
-    </film1>
-    <film2>
-        <name>Первый мститель</name>
-        <genre>фантастика</genre>
-        <year>2014</year>
-        <country>США</country>
-        <evalution>7.2</evalution>
-    </film2>
-    <film3>
-        <name>Душа</name>
-        <genre>мультфильм</genre>
-        <year>2020</year>
-        <country>США</country>
-        <evalution>8.4</evalution>
-    </film3>
-    <film4>
-        <name>Гарри Потер и тайная комната</name>
-        <genre>фантастика</genre>
-        <year>2002</year>
-        <country>Великобритания</country>
-        <evalution>8.1</evalution>
-    </film4>
-    <film5>
-        <name>Достучаться до небес</name>
-        <genre>драма</genre>
-        <year>1997</year>
-        <country>Германия</country>
-        <evalution>8.4</evalution>
-    </film5>
-</Фильмы>
+<Kinopoisk>
+    <Films>
+        <film1>
+            <name>Один дома</name>
+            <genre>комедия</genre>
+            <year>1990</year>
+            <country>США</country>
+            <evalution>8.3</evalution>
+        </film1>
+        <film2>
+            <name>Первый мститель</name>
+            <genre>фантастика</genre>
+            <year>2014</year>
+            <country>США</country>
+            <evalution>7.2</evalution>
+        </film2>
+        <film3>
+            <name>Душа</name>
+            <genre>мультфильм</genre>
+            <year>2020</year>
+            <country>США</country>
+            <evalution>8.4</evalution>
+        </film3>
+        <film4>
+            <name>Гарри Потер и тайная комната</name>
+            <genre>фантастика</genre>
+            <year>2002</year>
+            <country>Великобритания</country>
+            <evalution>8.1</evalution>
+        </film4>
+        <film5>
+            <name>Достучаться до небес</name>
+            <genre>драма</genre>
+            <year>1997</year>
+            <country>Германия</country>
+            <evalution>8.4</evalution>
+        </film5>
+    </Films>
+</Kinopoisk>    
